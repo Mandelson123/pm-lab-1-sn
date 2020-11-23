@@ -33,7 +33,7 @@ Odpowiedź:  Gwałtowna zmiana świateł
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Sterowanie diodą stanem niskim jest możliwe, ale mniej stabilne niż stanem wysokim.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
